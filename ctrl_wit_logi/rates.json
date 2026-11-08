@@ -1,0 +1,7 @@
+{
+  "max_throttle": 1.0,
+  "thr_mid": 0.2,
+  "thr_expo": 0.0,
+  "steer_rate": 1.0,
+  "steer_expo": 0.0
+}
